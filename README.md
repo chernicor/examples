@@ -1,2 +1,3 @@
-# examples
-examples of my code
+# Here are examples of my code
+Mostly JS and TS
+
